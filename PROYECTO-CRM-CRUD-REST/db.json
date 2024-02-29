@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jeremy",
+      "email": "123@hotmail.com",
+      "telefono": "945319118",
+      "empresa": "TECHINT",
+      "id": 1
+    },
+    {
+      "nombre": "Jair",
+      "email": "1234@hotmail.com",
+      "telefono": "987654321",
+      "empresa": "ARQUITECTURA",
+      "id": 2
+    }
+  ]
+}
